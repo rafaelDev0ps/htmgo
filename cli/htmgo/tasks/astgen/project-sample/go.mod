@@ -2,7 +2,7 @@ module astgen-project-sample
 
 go 1.23.0
 
-require github.com/maddalax/htmgo/framework v1.0.3-0.20241116145200-825c4dd7ecca
+require github.com/maddalax/htmgo/framework v1.0.6-0.20241125170340-331f4cde8201
 
 require (
 	github.com/go-chi/chi/v5 v5.1.0 // indirect
